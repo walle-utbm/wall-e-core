@@ -1,0 +1,6 @@
+[submodule "wall-e-vision"]
+	path = wall-e-vision
+	url = https://github.com/walle-utbm/wall-e-vision.git
+[submodule "dashboard-wall-e"]
+	path = dashboard-wall-e
+	url = https://github.com/walle-utbm/dashboard-wall-e.git

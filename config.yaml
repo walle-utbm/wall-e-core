@@ -1,0 +1,15 @@
+# wall-e-core — configuration de la passerelle (bridge)
+#
+# Tous les chemins sont relatifs à la racine du repo (ce dossier), sauf s'ils
+# sont absolus.
+
+server:
+  host: 0.0.0.0
+  port: 8000
+
+paths:
+  review_queue: data/review_queue
+  dataset: data/dataset
+  web: build/web
+
+vision_src: wall-e-vision/src

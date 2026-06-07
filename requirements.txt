@@ -1,0 +1,4 @@
+# wall-e-core — passerelle (bridge) dependencies
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pyyaml>=6.0
